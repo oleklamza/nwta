@@ -14,7 +14,7 @@ Narzędzia automatyzujące budowanie oprogramowania: ???
 
 Automatyczne testowanie na przykładzie Selenium
 
-Pomiar jakości kodu
+Pomiar jakości kodu [AS]
 
 Narzędzia do bug trackingu
 
