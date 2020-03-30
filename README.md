@@ -40,7 +40,7 @@ Poniżej 21 tematów, więc jest w czym wybierać. Zapisujecie się sami przez G
 
 - Narzędzia do testowania aplikacji webowych (backend)
 
-- Narzędzia do zarządzania bazą danych (na przykładzie Liquibase)
+- Narzędzia do zarządzania bazą danych (na przykładzie Liquibase) [TDW]
 
 - Przepływ informacji i dokumentowanie projektu (np. Confluence)
 
